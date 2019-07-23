@@ -21,6 +21,12 @@
     "/auth/facebook/callback": {
       "target": "http://localhost:5000"
     },
+    "/auth/linkedin": {
+      "target": "http://localhost:5000"
+    },
+    "/auth/linkedin/callback": {
+      "target": "http://localhost:5000"
+    },
     "/api/*": {
       "target": "http://localhost:5000"
     }
