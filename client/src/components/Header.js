@@ -10,7 +10,7 @@ class Header extends Component {
       case false: {
         return (
           <li>
-            <a href="auth/google">Login With GOOGLE</a>
+            <a href="auth/twitter">Login With TWITTER</a>
           </li>
         );
       }
